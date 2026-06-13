@@ -1,6 +1,6 @@
 {
   "name": "create-dhee-bundle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Scaffold a new dhee-bundle-* package (a pipeline for the Dhee engine). Run via `npm create dhee-bundle`.",
   "type": "module",
   "license": "Apache-2.0",
